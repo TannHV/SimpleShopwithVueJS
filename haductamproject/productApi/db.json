@@ -1,0 +1,185 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Tài Khoản Netflix Premium ( 1 tháng)",
+            "price": "280000",
+            "discount": "29000",
+            "image": "Netflix-1u-1tg.jpg",
+            "description": "Xem phim chất lượng 4k và Full HD",
+            "quantity": "15"
+        },
+        {
+            "id": "2",
+            "name": "Tài Khoản Netflix Premium ( 6 tháng)",
+            "price": "1560000",
+            "discount": "539000",
+            "image": "Netflix-1u-6tg.jpg",
+            "description": "Xem phim chất lượng 4k và Full HD",
+            "quantity": "15"
+        },
+        {
+            "id": "3",
+            "name": "Tài khoản nghe nhạc Spotify Premium ( 1 tháng)",
+            "price": "59000",
+            "discount": "19000",
+            "image": "Spotify-1-Thang.jpg",
+            "description": "Chất lượng nhạc của Spotify luôn đạt mức cao và tốc độ tải dữ liệu nhanh.",
+            "quantity": "15"
+        },
+        {
+            "id": "4",
+            "name": "Gói gia hạn Spotify Premium ( 6 tháng)",
+            "price": "590000",
+            "discount": "159000",
+            "image": "Spotify-6-Thang.jpg",
+            "description": "Chất lượng nhạc của Spotify luôn đạt mức cao và tốc độ tải dữ liệu nhanh.",
+            "quantity": "15"
+        },
+        {
+            "id": "5",
+            "name": "Gia hạn YouTube Premium (1 tháng)",
+            "price": "280000",
+            "discount": "29000",
+            "image": "YOUTUBE NO ADS 1 THANG.png",
+            "description": "Bạn có thể xem hàng triệu video không có quảng cáo",
+            "quantity": "15"
+        },
+        {
+            "id": "6",
+            "name": "Gia hạn YouTube Premium ( 6 tháng)",
+            "price": "3360000",
+            "discount": "259000",
+            "image": "YOUTUBE NO ADS 6 THANG.png",
+            "description": "Bạn có thể xem hàng triệu video không có quảng cáo",
+            "quantity": "15"
+        },
+        {
+            "id": "7",
+            "name": "Nâng cấp Tài khoản Zoom Pro (1 tháng)",
+            "price": "350000",
+            "discount": "210000",
+            "image": "Zoom-Pro-1-thang.jpg",
+            "description": " Zoom có những tính năng vượt trội so với các phần mềm khác.",
+            "quantity": "15"
+        },
+        {
+            "id": "8",
+            "name": "Nâng cấp Tài khoản Zoom Pro (2 tháng)",
+            "price": "700000",
+            "discount": "360000",
+            "image": "Zoom-Pro-2-thang.jpg",
+            "soluotxem": "8",
+            "description": " Zoom có những tính năng vượt trội so với các phần mềm khác.",
+            "quantity": "15"
+        },
+        {
+            "id": "9",
+            "name": "Discord Nitro (1 tháng)",
+            "price": "250000",
+            "discount": "119000",
+            "image": "Nitro-1-Thang.jpg",
+            "description": "gói nâng cấp của Discord cho phép bạn được hưởng nhiều lợi ích hấp hẫn từ Discord",
+            "quantity": "15"
+        },
+        {
+            "id": "10",
+            "name": "Discord Nitro (1 năm)",
+            "price": "3000000",
+            "discount": "1000000",
+            "image": "Nitro-1-Nam.jpg",
+            "description": "gói nâng cấp của Discord cho phép bạn được hưởng nhiều lợi ích hấp hẫn từ Discord",
+            "quantity": "15"
+        },
+        {
+            "id": "11",
+            "name": "Tài khoản Doodly Standard vĩnh viễn",
+            "price": "4800000",
+            "discount": "599000",
+            "image": "Doodly-Standard-Vinh-Vien.png",
+            "description": "phần mềm làm video hoạt hình được nhiệt liệt đề cử cho những người chưa có kinh nghiệm",
+            "quantity": "15"
+        },
+        {
+            "id": "12",
+            "name": "Tài khoản Doodly Enterprise vĩnh viễn",
+            "price": "6800000",
+            "discount": "990000",
+            "image": "Doodly Enterprise.png",
+            "description": "phần mềm làm video hoạt hình được nhiệt liệt đề cử cho những người chưa có kinh nghiệm",
+            "quantity": "15"
+        },
+        {
+            "id": "13",
+            "name": "Tài khoản Wondershare Filmora 11 (1 năm)",
+            "price": "900000",
+            "discount": "199000",
+            "image": "Filmora-1-Nam.jpg",
+            "description": "có ưu điểm lớn đó là tạo nên những hướng dẫn đơn giản và dễ bắt chước, và người dùng không cần phải tích lũy nhiều kiến thức",
+            "quantity": "15"
+        },
+        {
+            "id": "14",
+            "name": "Tài khoản Wondershare Filmora 11",
+            "price": "2500000",
+            "discount": "390000",
+            "image": "Filmora-Vinh-Vien.jpg",
+            "description": "có ưu điểm lớn đó là tạo nên những hướng dẫn đơn giản và dễ bắt chước, và người dùng không cần phải tích lũy nhiều kiến thức",
+            "quantity": "15"
+        },
+        {
+            "id": "15",
+            "name": "Tài khoản GitHub Student Developer Pack",
+            "price": "500000",
+            "discount": "199000",
+            "image": "GitHub Student Developer Pack.jpg",
+            "description": "cho bạn rất nhiều lợi ích đến từ các partners của GitHub như VS Code, Microsoft Azure, Heroku, MongoDB...",
+            "quantity": "15"
+        },
+        {
+            "id": "16",
+            "name": "Tài khoản Canva ( 1 tháng)",
+            "price": "150000",
+            "discount": "25000",
+            "image": "Canvas 1 thang.png",
+            "description": " chứa đầy đủ tài nguyên thiết kế miễn phí mà bạn có thể sử dụng ngay từ bên trong ứng dụng",
+            "quantity": "15"
+        },
+        {
+            "id": "17",
+            "name": "Gói gia hạn Canva ( 1 năm)",
+            "price": "3000000",
+            "discount": "490000",
+            "image": "Canva-1-Nam.png",
+            "description": " chứa đầy đủ tài nguyên thiết kế miễn phí mà bạn có thể sử dụng ngay từ bên trong ứng dụng",
+            "quantity": "15"
+        },
+        {
+            "id": "18",
+            "name": "Tài khoản học ngoại ngữ Duolingo (1 năm) ",
+            "price": "1800000",
+            "discount": "190000",
+            "image": "Duolingo-Gia Han-1nam.jpg",
+            "description": "Với tài khoản Duolingo Plus, bạn sẽ không gặp quảng cáo khi học.",
+            "quantity": "15"
+        },
+        {
+            "id": "19",
+            "name": "Gói gia hạn Duolingo ( Gia hạn 1 năm)",
+            "price": "1800000",
+            "discount": "490000",
+            "image": "Duolingo-1-Nam.jpg",
+            "description": "Với tài khoản Duolingo Plus, bạn sẽ không gặp quảng cáo khi học.",
+            "quantity": "15"
+        },
+        {
+            "id": "20",
+            "name": "Tài khoản Grammarly Premium (15 ngày)",
+            "price": "90000",
+            "discount": "55000",
+            "image": "Grammarly Premium 15 ngay.png",
+            "description": "một công cụ hỗ trợ kiểm tra ngữ pháp tiếng Anh, giúp người viết tiếng Anh tự tin viết tiếng Anh ",
+            "quantity": "15"
+        }
+    ]
+}
